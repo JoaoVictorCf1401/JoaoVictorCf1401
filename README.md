@@ -8,5 +8,5 @@ I am passionate about solving problems and learning 🐞. Always open to new cha
 
 Reach me out 👇🏻.
 
-[![Instagram Badge](https://img.shields.io/badge/-Joao%20Victor-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaovictor.cf/)](https://www.instagram.com/joaovictor.cf/)
-[![Linkedin Badge](https://img.shields.io/badge/-Joao%20Victor-6677cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovictorcf1401/)](https://www.linkedin.com/in/joaovictorcf1401/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaovictor.cf/)](https://www.instagram.com/joaovictor.cf/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6677cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovictorcf1401/)](https://www.linkedin.com/in/joaovictorcf1401/) 
