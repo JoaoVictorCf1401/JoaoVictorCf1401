@@ -4,7 +4,7 @@ My name is João Victor 👨🏻‍🦰, I am from Brazil and i study Informatio
 I am passionate about solving problems and learning 🐞. Always open to new challenges and ready to face changes. With excellent analysis and reasoning skills 🧠.
 
 - 📍 From PE living in Paulista.
-- 💻 Front-End Developer.
+- 💻 Developer.
 
 Reach me out 👇🏻.
 
